@@ -1,0 +1,26 @@
+{
+  "name": "kactivity",
+  "version": "1.0.0",
+  "description": "An internal Kanban Board System to manage activities and teams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saulocn/kactivity.git"
+  },
+  "author": "SauloCN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saulocn/kactivity/issues"
+  },
+  "homepage": "https://github.com/saulocn/kactivity#readme",
+  "dependencies": {
+    "restify": "^7.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
